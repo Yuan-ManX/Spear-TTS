@@ -1,7 +1,7 @@
 # Spear-TTS Pytorch
 
 <p align="center">
-  <img src="Spear-TTS.png" alt="Spear-TTS" style="display:block; margin:auto; width:680px;" />
+  <img src="Spear-TTS.png" alt="Spear-TTS" style="display:block; margin:auto; width:580px;" />
 </p>
 
 PyTorch implementation of Spear-TTS
