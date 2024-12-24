@@ -1,4 +1,4 @@
-# Spear-TTS Pytorch
+# Spear-TTS PyTorch
 
 <p align="center">
   <img src="Spear-TTS.png" alt="Spear-TTS" style="display:block; margin:auto; width:580px;" />
